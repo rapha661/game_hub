@@ -87,4 +87,5 @@ python test_query.py
 
 ## Modelo Entidade-Relacionamento (MER)
 
-![MER](https://github.com/user-attachments/assets/f5b752e2-52c1-484b-b246-e73ae9a06230)
+![image](https://github.com/user-attachments/assets/c10f4569-bbf6-48ef-aff9-d09336ed7b42)
+
